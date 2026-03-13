@@ -1,16 +1,26 @@
-## Hi there 👋
+# OSIM — Orthogonal Systems Invariance Method
 
-<!--
-**osim-framework/osim-framework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A systems-based security architecture framework for designing, 
+enforcing, and validating security boundaries under adversarial 
+conditions.
 
-Here are some ideas to get you started:
+**Author:** Alec Sanchez  
+**Version:** 1.0 — 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What OSIM Is
+
+OSIM defines how security zones are constructed, governed, and 
+validated so that compromise of one zone cannot propagate to 
+adjacent zones through implicit trust channels.
+
+## Core Properties
+
+- Default-deny enforcement at every zone boundary
+- Machine-verifiable security invariants
+- ATT&CK-mapped threat model
+- Red team validated controls
+- Firewall as code governance
+
+## Documentation
+
+See OSIM_Portfolio.pdf for the complete framework.
